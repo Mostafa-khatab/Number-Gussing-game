@@ -1,0 +1,34 @@
+body {
+    background-color: midnightblue;
+}
+
+#container {
+    background-color: midnightblue;
+    border: 5px solid white;
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+#outputtext {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+input {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #fff;
+    color: midnightblue;
+    border: none;
+    cursor: pointer;
+}
