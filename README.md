@@ -11,9 +11,9 @@ Welcome to the **Number Guessing Game** project! This game challenges players to
 
 ## 📸 Screenshot
 
-![Game Start Screen](./assets/game-start.png)
-![Gameplay Screenshot](./assets/gameplay.png)
-![End Game Screenshot](./assets/end-game.png)
+![Game Start Screen](./assets/p1.png)
+![Gameplay Screenshot](./assets/p2.png)
+![End Game Screenshot](./assets/p3.png)
 
 > Add screenshots to show the interface and gameplay experience.
 
