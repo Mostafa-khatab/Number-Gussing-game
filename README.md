@@ -15,7 +15,6 @@ Welcome to the **Number Guessing Game** project! This game challenges players to
 ![Gameplay Screenshot](./assets/p2.png)
 ![End Game Screenshot](./assets/p3.png)
 
-> Add screenshots to show the interface and gameplay experience.
 
 ## 🚀 How to Play
 
